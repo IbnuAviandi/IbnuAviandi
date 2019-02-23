@@ -1,0 +1,29 @@
+h1{
+    background-image:url('./Image/holiday.jpg');
+    text-align: center;
+    padding:60px;
+    text-decoration: aqua;
+}
+span{
+    color:blueviolet;
+}
+p{
+    text-align:center;
+    size:10px;
+}
+table{
+    border: 1px solid rgb(95, 236, 13);
+    border-collapse:collapse;
+    width:500px;
+    align-content: center;
+}
+th{
+    border: 1px solid rgb(95, 236, 13);
+    border-collapse:collapse;
+    padding:10px;
+}
+td{
+    border: 1px solid rgb(95, 236, 13);
+    border-collapse:collapse;
+    padding:10px;
+}
